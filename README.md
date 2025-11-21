@@ -16,8 +16,6 @@ I'm a detail-oriented Frontend Developer with 7 years of experience building hig
 
 ### 💼 Professional Experience
 
-Currently working as a Frontend Engineer at **HiBob**, developing features for a globally-used SaaS product. Previously led frontend development at **ONE Technologies**, where I:
-
 - Built applications serving 3K+ users across multiple clients
 - Developed a PWA for Israel Postal Company that reduced processing time by 40%
 - Created hybrid apps used by 1K+ workers daily
@@ -39,22 +37,3 @@ I thrive in fast-paced environments where I can deliver measurable improvements 
 
 - 📧 Email: YakovNeumann@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yakov-neumann)
-
----
-
-💡 *Always learning, always building, always optimizing.*
-
-<!--
-**yaksneumann/yaksneumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
