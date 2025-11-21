@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Yakov 👋
 
 ## Frontend Developer | Angular Specialist
